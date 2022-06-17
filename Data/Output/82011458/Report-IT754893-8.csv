@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+800015,"IT Support",2017-08-10,109589,21917.8,131507,CAD
+111853,"IT Support",2017-08-24,222832,44566.4,267398,EUR
+620447,"Beverages and Catering",2017-08-20,117746,23549.2,141295,RON

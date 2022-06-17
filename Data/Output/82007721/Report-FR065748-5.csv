@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+998919,"Beverages and Catering",131787,26357.4,158144,USD,2017-05-19
+200419,"Professional Services",40397,8079.4,48476.4,EUR,2017-05-02
+892065,"Various paper supplies",264894,52978.8,317873,RON,2017-05-07
